@@ -1,6 +1,6 @@
 # Subarachnoid haemorrhage segmentation from non-contrast head ct images
 
-<img src="./instructions/media/demo.png" width="591px" height='591' />
+<img src="/instructions/media/Demo.png" width="591px" height='591' />
 
 ## Description 
 This repository is based on the work described in the article  
