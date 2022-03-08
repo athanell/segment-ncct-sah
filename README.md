@@ -64,7 +64,7 @@ The patient-level and slice-level performance of the algorithm was measured on t
   
     The [Indian](http://headctstudy.qure.ai/#dataset) dataset did not have slice-level annotations
   
-* External validation sets in Finland
+* External validation set (Finland)
  
   * Patient-level
 
@@ -104,7 +104,7 @@ The patient-level and slice-level performance of the algorithm was measured on t
 
 
 ## Assumptions
-* The NCCT data can be in DICOM or in a NIFTI format
+* The NCCT data can be in DICOM or in a NIFTI format. See more details in [data preparation](instructions/01-inference-unet.md)
 
 
 ## Installation 
