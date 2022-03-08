@@ -11,7 +11,7 @@ Python 3 is required (tested with version 3.7).
     user@ubuntu:~$ git clone https://github.com/athanell/segment-sah-from-ncct.git
     ```
 
-2. Create and activate virtual environment 
+2. Create and activate a virtual environment 
     ```console
     user@ubuntu:~$ conda create --name ncct_sah_seg python=3.7
     user@ubuntu:~$ conda activate ncct_sah_seg
