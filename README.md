@@ -6,7 +6,7 @@
 This repository is based on the work described in the article  
 
  ```
- Externally validated deep learning algorithm identifies and localizes subarachnoid hemorrhage on head CT scans 
+ Development and External Validation of a DeepLearning Algorithm to Identify and Localize Subarachnoid Hemorrhage on CT Scans 
 ``` 
 and locates (semantic segmentation) subarachnoid blood (SAH) from non-contrast head ct scans (NCCT). 
 
